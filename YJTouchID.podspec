@@ -37,8 +37,8 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT"
-  # s.license      = { :type => "MIT", :file => "LICENSE" }
+  # s.license      = "MIT"
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -104,7 +104,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  s.resources = "YJTouchID/YJTouchID/pic/*.png"
+  s.resources = "YJTouchID/pic/*.png"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
