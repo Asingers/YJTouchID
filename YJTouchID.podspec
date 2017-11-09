@@ -104,7 +104,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  s.resources = "pic/*.png"
+  s.resources = "YJTouchID/pic/*.png"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
